@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DishWasherSimulator-1.0-SNAPSHOT">
+    <output-path>C:\Users\yisha\IdeaProjects\DishWasherSimulator\build\libs</output-path>
+    <root id="archive" name="DishWasherSimulator-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="com.theshwarma.DishWasherSimulator.main" />
+    </root>
+  </artifact>
+</component>
